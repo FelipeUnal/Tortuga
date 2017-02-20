@@ -14,7 +14,7 @@ public class POO {
    }
    
    public void dibujar(){
-      joe.penUp();
+      /*joe.penUp();
       joe.back(50);
       joe.left(90);
       joe.forward(75);
@@ -107,7 +107,7 @@ public class POO {
       joe.forward(25);
       joe.penUp();
       joe.forward(100);
-      joe.left(90);
+      joe.left(90);*/
    } 
    
     /**
